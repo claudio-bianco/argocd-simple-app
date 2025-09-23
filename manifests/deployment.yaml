@@ -15,7 +15,7 @@ spec:
       automountServiceAccountToken: false
       containers:
       - name: webcolor
-        image: kubedevio/web-color:blue
+        image: kubedevio/web-color:green
         resources:
           requests:
             cpu: "100m"
